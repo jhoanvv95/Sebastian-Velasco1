@@ -1,0 +1,22 @@
+*{
+
+background-color:darkslategrey;
+color: black;
+
+}
+
+.container{
+
+    position: absolute;
+    top:50%;
+    left: 48%;           
+    margin-top: -100px;
+    margin-left: -100px;
+    padding: 1em;
+  border: rgb(14, 14, 14) 5px solid;
+  border-radius: 20px;
+}
+
+.container b{
+    color: rgb(240, 147, 25);
+  }
